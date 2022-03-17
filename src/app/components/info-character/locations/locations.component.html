@@ -1,0 +1,8 @@
+<aside>
+  <h2>Localizaciones</h2>
+  <div class="row">
+    <article class="col-12 col-t-6 col-d-3" *ngFor="let location of arrLocations">
+      <app-card [objeto]="location" [tipo]=" 'location' "></app-card>
+    </article>
+  </div>
+</aside>
