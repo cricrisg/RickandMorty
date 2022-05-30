@@ -1,6 +1,6 @@
-#Deploy site
+## Url para ver el resultado:
 
-https://rickandmorty21.netlify.app
+Aquí puedes ver el proyecto: https://rickandmorty21.netlify.app
 
 # Rickymorty
 
